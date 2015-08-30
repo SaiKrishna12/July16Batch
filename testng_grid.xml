@@ -1,0 +1,16 @@
+<suite name="Dropddown on Grid"  parallel="tests">
+   <test name="DB on Firefox" >
+    <parameter name="browser" value="firefox"  />
+    <classes>
+       <class name="day26.DBTestingonGrid" />
+    </classes>
+  </test>
+  <test name="DB on Chrome" >
+     <parameter name="browser" value="chrome"  />
+    <classes>
+       <class name="day26.DBTestingonGrid" />
+    </classes>
+  </test>
+ 
+  
+</suite>

@@ -1,0 +1,10 @@
+2015-08-27 21:17:13,557 INFO  [LoginuingLog4j] Browser Launched 
+2015-08-27 21:17:19,675 INFO  [LoginuingLog4j] Navigated to url 
+2015-08-27 21:17:20,804 INFO  [LoginuingLog4j] entered the username 
+2015-08-27 21:17:20,915 INFO  [LoginuingLog4j] entered the password 
+2015-08-27 21:17:22,034 INFO  [LoginuingLog4j] click on signin 
+2015-08-27 21:19:15,112 INFO  [LoginuingLog4j] Browser Launched 
+2015-08-27 21:19:20,771 INFO  [LoginuingLog4j] Navigated to url 
+2015-08-27 21:19:21,890 INFO  [LoginuingLog4j] entered the username 
+2015-08-27 21:19:22,000 INFO  [LoginuingLog4j] entered the password 
+2015-08-27 21:19:22,892 INFO  [LoginuingLog4j] click on signin 

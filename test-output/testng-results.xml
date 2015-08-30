@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19129" started-at="2015-08-27T05:26:39Z" finished-at="2015-08-27T05:26:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19129" started-at="2015-08-27T05:26:39Z" finished-at="2015-08-27T05:26:58Z">
+      <class name="day27.ClickOnelementusingJavascriptExecutor">
+        <test-method status="PASS" signature="sampleTest()[pri:0, instance:day27.ClickOnelementusingJavascriptExecutor@1a3174f7]" name="sampleTest" duration-ms="19082" started-at="2015-08-26T22:26:39Z" finished-at="2015-08-26T22:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+      </class> <!-- day27.ClickOnelementusingJavascriptExecutor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
